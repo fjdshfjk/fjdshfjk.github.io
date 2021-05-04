@@ -14,13 +14,7 @@
     background: url(trigger.png);
     opacity: 0;
 
-
-.xbox .bumper {
-    width: 170px;
-    height: 61px;
-    background: url(bumper.png);
-    opacity: 0;
-
+}
 
 .xbox .back, .xbox .start {
     background: url(start-select.png);
